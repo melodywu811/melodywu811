@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Melody Wu @melodywu811
-- 👀 I’m interested in using data science to influence decision-making and improve life 
-- 🌱 I’m currently learning data science with General Assembly and doing quantitative research in public policy at Stanford. 
-- 💞️ I’m looking to collaborate on projects dealing with education data, behavioral science, and personal finance. 
+- 👀 I'm passionate about using data to influence decisions, inform policies, and contribute to equitable and sustainable development 
+- 🎒 I’m currently learning data science at General Assembly and doing quantitative research in public policy at Stanford 
+- 💡 I’m looking to collaborate on projects dealing with education data, behavioral science, and personal finance
+- 🌎 I also tell stories with data, teach and learn with a growth mindset, and advocate for diversity and inclusion
 
 
 <!---
